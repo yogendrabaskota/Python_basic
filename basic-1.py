@@ -1,1 +1,1 @@
-print("THis is ai bootcamp")
+print("This is ai bootcamp")
