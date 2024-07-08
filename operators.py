@@ -34,5 +34,13 @@ print(p) #p=p*6=10*6=60
 
 
 #BITWISE OPERATOR
+a = 5  # Binary: 101
+b = 3  # Binary: 011
+print(a & b)  # Bitwise AND: 1 (Binary: 001)
+print(a | b)  # Bitwise OR: 7 (Binary: 111)
+print(a ^ b)  # Bitwise XOR: 6 (Binary: 110)
+print(~a)     # Bitwise NOT: -6 (Binary: -110)
+print(a << 1)  # Bitwise left shift: 10 (Binary: 1010)
+print(a >> 1)  # Bitwise right shift: 2 (Binary: 010)
 
 
