@@ -5,6 +5,7 @@ if a>b:
     print("a is greater than b")
 else:
     print("b is greater than a ")
+        
 if a>0:
     print("a is positive number")
 elif a==0:
